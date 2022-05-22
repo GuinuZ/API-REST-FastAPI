@@ -1,0 +1,3 @@
+Outra pagina Web de Confirmação de Login
+verificar no db se tem os dados pedidos para login(user e senha)
+update no cadastro (esqueceu a senha)
